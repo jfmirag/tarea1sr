@@ -5,7 +5,7 @@ date: "11 de febrero de 2018"
 output: word_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup, cars, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
@@ -23,7 +23,9 @@ un texto empleando una serie de *caracteres* de una forma especial.
 
 ---
 
-# EJEMPLO
+# EJEMPLOS
+
+---
 
 ## Ejemplo 1
 
@@ -40,3 +42,26 @@ El resultado final:
     1. listas ordenadas
     2. listas desordenadas
     3. Y [links](https://srunal.github.io/)
+
+
+## Ejemplo 2
+
+En markdown es posible introducir:
+
+### Codigo
+
+```{r cars}
+summary(cars)
+```
+
+### Tablas
+
+Cabecera A | Cabecera B
+-- | --
+Campo A0 | Campo B0
+Campo A1 | Campo B1
+
+### Imagenes
+
+![imagen1](RM.jpg)
+
