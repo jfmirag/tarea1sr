@@ -27,7 +27,7 @@ un texto empleando una serie de *caracteres* de una forma especial.
 
 ---
 
-![](m2.jpg)
+![](imgmarkdown/m2.jpg)
 
 ## Ejemplo 1
 
@@ -46,7 +46,7 @@ El resultado final:
     3. Y [links](https://srunal.github.io/)
 
 ***
-![](m3.jpg)
+![](imgmarkdown/m3.jpg)
 
 ## Ejemplo 2
 
@@ -67,7 +67,7 @@ Campo A1 | Campo B1
 
 ### Imágenes
 
-![imagen1](RM.jpg)
+![imagen1](imgmarkdown/RM.jpg)
 
 # Cibergrafía
 
