@@ -1,7 +1,7 @@
 ---
 title: "MARKDOWN"
-author: "Semillero R"
-date: "11 de febrero de 2018"
+author: "Semillero de R"
+date: "12 de febrero de 2018"
 output: word_document
 ---
 
@@ -27,6 +27,8 @@ un texto empleando una serie de *caracteres* de una forma especial.
 
 ---
 
+![](m2.jpg)
+
 ## Ejemplo 1
 
 Este es un ejemplo de un texto **formateado en markdown**. *Tal y como se vería en un editor*.
@@ -44,6 +46,7 @@ El resultado final:
     3. Y [links](https://srunal.github.io/)
 
 ***
+![](m3.jpg)
 
 ## Ejemplo 2
 
@@ -66,4 +69,9 @@ Campo A1 | Campo B1
 
 ![imagen1](RM.jpg)
 
+# Cibergrafía
+
+https://www.youtube.com/watch?v=TtSWo2nbzAk
+
+http://joedicastro.com/pages/markdown.html#mark14
 
