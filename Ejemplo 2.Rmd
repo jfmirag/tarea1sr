@@ -16,9 +16,9 @@ un texto empleando una serie de *caracteres* de una forma especial.
 
 # Ventajas de markdown
 
-* Facil de Aprender.
-* Facil de leer.
-+ Veloz a la hora de ingresar informacion.
+* Fácil de Aprender.
+* Fácil de leer.
++ Veloz a la hora de ingresar información.
 - El archivo puede ser exportado luego a HTML.
 
 ---
@@ -29,20 +29,21 @@ un texto empleando una serie de *caracteres* de una forma especial.
 
 ## Ejemplo 1
 
-Este es un ejemplo de un texto **formateado en markdown**. *Tal y como se veria en un editor*.
+Este es un ejemplo de un texto **formateado en markdown**. *Tal y como se vería en un editor*.
 El resultado final:
 
-1. Estaria con formato
-2. Inluiria los links, como este: [SemilleroR]
+1. Estaría con formato
+2. Incluiría los links, como este: [SemilleroR]
 
 [SemilleroR]:https://srunal.github.io/ "SemilleroR"
 3. Otro ejemplo
     * De una lista
 4. Combinando 
-    1. listas ordenadas
-    2. listas desordenadas
+    1. Listas ordenadas
+    2. Listas desordenadas
     3. Y [links](https://srunal.github.io/)
 
+***
 
 ## Ejemplo 2
 
@@ -61,7 +62,8 @@ Cabecera A | Cabecera B
 Campo A0 | Campo B0
 Campo A1 | Campo B1
 
-### Imagenes
+### Imágenes
 
 ![imagen1](RM.jpg)
+
 
