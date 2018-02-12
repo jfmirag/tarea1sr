@@ -31,7 +31,8 @@ Este es un ejemplo de un texto **formateado en markdown**. *Tal y como se veria 
 El resultado final:
 
 1. Estaria con formato
-2. Inluiria los links, como este:[SemilleroR]
+2. Inluiria los links, como este: [SemilleroR]
+
 [SemilleroR]:https://srunal.github.io/ "SemilleroR"
 3. Otro ejemplo
     * De una lista
