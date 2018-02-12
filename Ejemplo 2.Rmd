@@ -32,11 +32,10 @@ El resultado final:
 
 1. Estaria con formato
 2. Inluiria los links, como este:[SemilleroR]
-3. 
 [SemilleroR]:https://srunal.github.io/ "SemilleroR"
-*  Otro ejemplo
-* De una lista
-*  Combinando 
-1. listas ordenadas
-2. listas desordenadas
-3. Y [links](https://srunal.github.io/)
+3. Otro ejemplo
+    * De una lista
+4. Combinando 
+    1. listas ordenadas
+    2. listas desordenadas
+    3. Y [links](https://srunal.github.io/)
