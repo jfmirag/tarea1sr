@@ -1,12 +1,12 @@
 ---
-title: "Untitled"
+title: "Pasos para trabajar con Rmarkdown y GitHub por primera vez"
 author: "Semillero R"
 date: "14 de febrero de 2018"
 output: word_document
 ---
 
 
-# Pasos para trabajar con Rmarkdown y GitHub
+# Pasos
 
 1. Instalar Git.
 
@@ -20,9 +20,7 @@ Se puede descargar gratuitamente en el siguiente link: <https://git-scm.com/>
 
     b. Crear un Nuevo Proyecto de RStudio
     
-    
-
-    c. Seleccionar vercion de control
+    c. Seleccionar version de control
     
     ![](imggit/img8.jpg)
 
@@ -30,7 +28,7 @@ Se puede descargar gratuitamente en el siguiente link: <https://git-scm.com/>
     
     ![](imggit/img9.jpg)
 
-    e. En la ventana siguiente con el commando Ctrl+v pegar el directorio clonado de github y dar click en el boton señalado.
+    e. En la ventana siguiente con el commando ***Ctrl+v*** pegar el directorio clonado de github y dar click en el boton señalado.
     
     ![](imggit/img10.jpg)
 
@@ -39,15 +37,15 @@ Se puede descargar gratuitamente en el siguiente link: <https://git-scm.com/>
     
     ![](imggit/img11.jpg)
   
-    g. En el boton señalado es coger la opcion **Shell**
+    g. En el boton señalado escoger la opcion ***Shell***
     
     ![](imggit/img3.jpg)
     
-    h. a continuacion se copian las tras lineas de codigo siguientes:
+    h. En la ventana resultante se copian las tras lineas de codigo siguientes:
     
-        - git init
-        - git config user.name "NombreUsuario"
-        - git config user.email "email@algo.com"
+        - `git init`
+        - `git config user.name "NombreUsuario"`
+        - `git config user.email "email@algo.com"`
     
     ![](imggit/img4.jpg)
     
@@ -60,3 +58,19 @@ Se puede descargar gratuitamente en el siguiente link: <https://git-scm.com/>
     b. Ingresar contraseña
     
     ![](imggit/img6.jpg)
+    
+# Errores frecuentes
+    
+- Cuando Git no esta instalado
+
+![](imggit/img1.jpg)
+
+En este caso es necesario seguir ***todos los pasos*** de esta guia.
+
+- Cuando se va a hacer comit sin registrarse en Git
+
+![](imggit/img2.jpg)
+
+En este caso es necesario seguir los pasos ***desde el 2.f hasta finalizar la gia***    
+    
+    
