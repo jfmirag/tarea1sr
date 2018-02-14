@@ -1,0 +1,62 @@
+---
+title: "Untitled"
+author: "Semillero R"
+date: "14 de febrero de 2018"
+output: word_document
+---
+
+
+# Pasos para trabajar con Rmarkdown y GitHub
+
+1. Instalar Git.
+
+Se puede descargar gratuitamente en el siguiente link: <https://git-scm.com/>
+
+2. Registrar correo y nombre de usuario en Git.
+
+    a. Clonar un repositorio de github
+    
+    ![](imggit/img7.jpg)
+
+    b. Crear un Nuevo Proyecto de RStudio
+    
+    
+
+    c. Seleccionar vercion de control
+    
+    ![](imggit/img8.jpg)
+
+    d. Seleccionar git
+    
+    ![](imggit/img9.jpg)
+
+    e. En la ventana siguiente con el commando Ctrl+v pegar el directorio clonado de github y dar click en el boton señalado.
+    
+    ![](imggit/img10.jpg)
+
+
+    f. A continuacion en la ventana de RStudio darclick en la parte señalada en la siguiente imagen.
+    
+    ![](imggit/img11.jpg)
+  
+    g. En el boton señalado es coger la opcion **Shell**
+    
+    ![](imggit/img3.jpg)
+    
+    h. a continuacion se copian las tras lineas de codigo siguientes:
+    
+        - git init
+        - git config user.name "NombreUsuario"
+        - git config user.email "email@algo.com"
+    
+    ![](imggit/img4.jpg)
+    
+3. Al hacer push por primera vez se debe registar el usuario y la contraseña de la cuenta de github.
+
+    a. Ingresar nombre de usuario
+    
+    ![](imggit/img5.jpg)
+    
+    b. Ingresar contraseña
+    
+    ![](imggit/img6.jpg)
